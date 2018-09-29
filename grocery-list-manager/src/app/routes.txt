@@ -1,0 +1,26 @@
+module .export = {
+    mongoURI:mongodb://kaladmin.encodeURIcomponet('@sswared!')
+    ads018538.mlab.com:18538/social.connector'
+}
+
+const mongooes = required('express');
+const app = express();
+
+app.get
+
+// db config
+const db = required ('keys'..mongodb;
+// connect db = required 
+
+mongooes 
+.connect(db)
+then(=>console.log (mongodb connected'this 
+.catch(err => comsol.log
+
+mongoose 
+.connect db 
+module.export = mongodb :// 
+mongoURI: 
+
+)
+(9
